@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<voicemail>
+    <voicemail numeric="20610"  carrier="BE-Mobistar" vmnumber="5555" vmtag = "BE-Mobistar"/>
+    <voicemail numeric="20801"  carrier="FR-Orange" vmnumber="888" vmtag = "FR-Orange"/>
+    <voicemail numeric="22802"  carrier="CH-Sunrise" vmnumber="+41763333333" vmtag = "CH-Sunrise"/>
+    <voicemail numeric="23410"  carrier="UK-O2" vmnumber="901" vmtag = "UK-O2"/>
+    <voicemail numeric="23415"  carrier="UK-Vodafone" vmnumber="121" vmtag = "UK-Vodafone"/>
+    <voicemail numeric="23433"  carrier="UK-Orange" vmnumber="123" vmtag = "UK-Orange"/>
+    <voicemail numeric="25001"  carrier="RU-MTS" vmnumber="0860" vmtag = "RU-MTS"/>
+    <voicemail numeric="25002"  carrier="RU-NorthWest GSM" vmnumber="0525" vmtag = "RU-NorthWest GSM"/>
+    <voicemail numeric="25020"  carrier="RU-TELE2" vmnumber="600" vmtag = "RU-TELE2"/>
+    <voicemail numeric="28601"  carrier="TR-TURKCELL" vmnumber="7565" vmtag = "TR-TURKCELL"/>
+    <voicemail numeric="28602"  carrier="TR-TELSIM" vmnumber="7542" vmtag = "TR-TELSIM"/>
+    <voicemail numeric="28603"  carrier="TR-ARIA" vmnumber="999" vmtag = "TR-ARIA"/>
+    <voicemail numeric="334020"  carrier="MX-Telcel" vmnumber="*86" vmtag = "MX-Telcel"/>
+    <voicemail numeric="33403"  carrier="MX-Movistar" vmnumber="*86" vmtag = "MX-Movistar"/>
+    <voicemail numeric="71201"  carrier="CRC-ICE" vmnumber="190" vmtag = "CRC-ICE"/>
+    <voicemail numeric="71202"  carrier="CRC-ICE" vmnumber="190" vmtag = "CRC-ICE"/>
+    <voicemail numeric="71203"  carrier="CRC-ICE" vmnumber="190" vmtag = "CRC-ICE"/>
+</voicemail>
